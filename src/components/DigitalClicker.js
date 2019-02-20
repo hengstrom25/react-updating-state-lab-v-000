@@ -8,7 +8,7 @@ export default class DigitalClicker extends Component {
     // Define initial state
     this.state = {
       timesClicked: 0
-    }
+    };
   }
   
 }
